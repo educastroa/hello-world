@@ -41,3 +41,4 @@ function calculateCircleArea(radius) {
 }
 
 console.log(calculateCircleArea(-10));
+console.log('hello');
